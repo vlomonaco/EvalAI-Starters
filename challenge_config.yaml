@@ -1,7 +1,6 @@
-# If you are not sure what all these fields mean, please refer our documentation here:
-# https://evalai.readthedocs.io/en/latest/configuration.html
-title: Random Number Generator Challenge
-short_description: Random number generation challenge for each submission
+title: Semi-Supervised Continual Learning Challenge
+short_description: The Challenge is organised as part of the upcoming IJCAI 2021 First International Workshop on Semi-
+Supervised Continual Learning
 description: templates/description.html
 evaluation_details: templates/evaluation_details.html
 terms_and_conditions: templates/terms_and_conditions.html
